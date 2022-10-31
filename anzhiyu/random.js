@@ -1,0 +1,1 @@
+var posts=["2022/10/27/生活/生活/","2022/10/26/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
