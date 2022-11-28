@@ -1,1 +1,1 @@
-var posts=["2022/10/27/生活/生活/","2022/10/13/Java笔记/常见算法和Lambda/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2022/10/13/Java笔记/常见算法和Lambda/","2022/10/27/生活/生活/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
